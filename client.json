@@ -1,0 +1,1 @@
+{"client_id":"https://ledger-tools-br.github.io/local-ledger/client.json","client_name":"local-ledger","redirect_uris":["http://127.0.0.1:8765/callback"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none","scope":"openid profile email offline_access"}
